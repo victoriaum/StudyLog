@@ -7,4 +7,4 @@
 #### SELECT 쿼리문에서의 실행순서?
 + FROM / JOIN → WHERE → GROUP BY → HAVING → ORDER BY → LIMIT
 
-#### 
+#### SQL 내장함수 - 그룹함수(aggregation)
