@@ -107,7 +107,7 @@
   su - root   // 환경변수를 적용하고 'root' 사용자로 변경
   ```
 + 사용자 관련 파일
-  ```
+  ``` 
   /etc/defalult/useradd
   /etc/login.defs
   /etc/skel

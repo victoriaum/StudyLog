@@ -40,24 +40,23 @@
 
 <br><br>
 ## Chapter 03. 
-### 
-+ 프로토콜
-  + 구문, 의미, 타이밍
-  + OSI 7계층
-    + 응용: FTP, SSH, Telnet, SMTP, DHCP, TFTP, HTTP, POP3, IMAP, SNMP 
-    + 표현 
-    + 세션 
-    + 전송: TCP 3-Way Handshake, TCP, UCP
-    + 네트워크: IP, ICMP, IGMP, ARP, RARP
-    + 데이터링크
-    + 물리
-+ IP 주소와 도메인
-  + IPv4
-    + 32비트, 약 43억개의 주소, IPSec 프로토콜 설치, 모바일 곤란, 웹 캐스팅 곤란, 비순차적 할당
-    + 8비트 단위 4부분 10진수 표기
-  + IPv6
-    + 128비트, 거의 무한대 주소, 확장기능에서 기본적으로 보안기능 제공, 모바일, 웹 캐스팅 용이
-    + 16비트 단위 8부분 16진수 표기
+### 프로토콜
+> 구문, 의미, 타이밍
+#### OSI 7계층
++ 응용: FTP, SSH, Telnet, SMTP, DHCP, TFTP, HTTP, POP3, IMAP, SNMP 
++ 표현 
++ 세션 
++ 전송: TCP 3-Way Handshake, TCP, UCP
++ 네트워크: IP, ICMP, IGMP, ARP, RARP
++ 데이터링크
++ 물리
+#### IP 주소와 도메인
++ IPv4
+  + 32비트, 약 43억개의 주소, IPSec 프로토콜 설치, 모바일 곤란, 웹 캐스팅 곤란, 비순차적 할당
+  + 8비트 단위 4부분 10진수 표기
++ IPv6
+  + 128비트, 거의 무한대 주소, 확장기능에서 기본적으로 보안기능 제공, 모바일, 웹 캐스팅 용이
+  + 16비트 단위 8부분 16진수 표기
 #### UTP vs. STP
 + UTP: 꼬임선들이 절연체로 차폐되어 있지 않음
 + STP: 차폐되어 있음
